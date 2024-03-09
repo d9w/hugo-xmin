@@ -1,5 +1,7 @@
 body {
-  font-family: Optima, Candara, Calibri, Arial, sans-serif;
+  /* font-family: Optima, Candara, Calibri, Arial, sans-serif; */
+  /* font-family: "Anonymous Pro", "Courier New", Courier, monospace; */
+  font-family: Palatino, palatino linotype, palatino lt std, latin modern roman,serif;
 }
 code {
   font-family: "Lucida Console", Monaco, monospace;
