@@ -6,7 +6,7 @@
 
 {{ .Content }}
 
-{{if not .IsHome}}
+{{if eq .Title "Blog"}}
 <ul>
   {{ $pages := .Pages }}
   {{ if .IsHome }}{{ $pages = .Site.RegularPages }}{{ end }}
